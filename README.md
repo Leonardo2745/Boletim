@@ -1,6 +1,16 @@
 # Olá, seja bem-vindo ao meu projeto de Boletim!!
 
+## Linguagens utilizadas:
+#### - JavaScript;
+#### - Html5;
+#### - CSS;
+
 ### - Este projeto ainda está em desenvolvimento e faltam alguns componentes.
+
+
+
+
+
 
 ### - Caso queira acompanhar o processo basta baixar o arquivo ".zip" e iniciar com o VS Code.
 
@@ -11,6 +21,10 @@
 #### ------------------------------------------------------------------
 
 # Hello, welcome to my Bulletin project!!
+## Languages ​​used:
+#### - JavaScript;
+#### - Html5;
+#### - CSS;
 
 ### - This project is still under development and is missing some components.
 
