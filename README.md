@@ -12,7 +12,7 @@
 
 
 
-### - Caso queira acompanhar o processo basta baixar o arquivo ".zip" e iniciar com o VS Code.
+### - Caso queira acompanhar o processo basta acessar o link: 
 
 ### - Estarei subindo atualizações deste projeto assim que possível!!
 
