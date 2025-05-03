@@ -16,20 +16,3 @@
 
 ### - Estarei subindo atualizações deste projeto assim que possível!!
 
-### Obrigado pela atenção (^-^) !!
-
-#### ------------------------------------------------------------------
-
-# Hello, welcome to my Bulletin project!!
-## Languages ​​used:
-#### - JavaScript;
-#### - Html5;
-#### - CSS;
-
-### - This project is still under development and is missing some components.
-
-### - If you want to follow the process, just download the ".zip" file and start with VS Code.
-
-### - I will be uploading updates on this project as soon as possible!!
-
-### Thanks for your attention (^-^)!!
