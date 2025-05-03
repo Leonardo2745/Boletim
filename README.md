@@ -12,7 +12,7 @@
 
 
 
-### - Caso queira acompanhar o processo basta acessar o link: 
+### - Caso queira acompanhar o processo basta acessar o link: (https://leonardo2745.github.io/Boletim/)
 
 ### - Estarei subindo atualizações deste projeto assim que possível!!
 
